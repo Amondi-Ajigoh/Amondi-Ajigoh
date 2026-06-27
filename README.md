@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi 👋, I'm Rosalyn Amondi Ajigoh
 
-<!--
-**Amondi-Ajigoh/Amondi-Ajigoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Software Engineer
 
-Here are some ideas to get you started:
+I am a passionate Full Stack Software Engineer focused on building scalable, secure, and modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am building a professional software engineering portfolio covering full-stack development, DevOps, cloud computing, CI/CD, testing, and enterprise software architecture.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+* React
+* Next.js
+* Vue.js
+* Angular
+* Bootstrap
+* Tailwind CSS
+* TypeScript
+
+### Backend
+
+* Laravel
+* Node.js
+* Express.js
+* NestJS
+* FastAPI
+* Spring Boot
+* ASP.NET
+
+### Databases
+
+* MySQL
+* PostgreSQL
+* MongoDB
+* Redis
+
+### DevOps & Cloud
+
+* Docker
+* Kubernetes
+* GitHub Actions
+* Terraform
+* AWS
+* Grafana
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+* DBeaver
+* Figma
+* Draw.io
+
+---
+
+## 🌱 Current Focus
+
+* Building enterprise portfolio projects
+* DevOps and CI/CD pipelines
+* Cloud deployment with AWS
+* Software architecture and system design
+* Professional software engineering practices
+
+---
+
+## 📈 GitHub Statistics
+
+* Full Stack Development
+* API Development
+* DevOps
+* Cloud Computing
+* CI/CD
+* Docker & Kubernetes
+* Testing
+* System Design
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: Coming Soon
+* Portfolio: Coming Soon
+* Email: Professional Email Coming Soon
+
+---
+
+> Building software one project at a time.
