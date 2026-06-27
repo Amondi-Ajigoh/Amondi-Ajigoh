@@ -82,9 +82,9 @@ Currently, I am building a professional software engineering portfolio covering 
 
 ## 📫 Connect With Me
 
-* LinkedIn: Coming Soon
+* LinkedIn: www.linkedin.com/in/rosalyn-amondi-93a235413
 * Portfolio: Coming Soon
-* Email: Professional Email Coming Soon
+* Email: rosalynamondiajigoh.dev@gmail.com
 
 ---
 
